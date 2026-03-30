@@ -1,6 +1,6 @@
 ---
 name: pretext
-description: Apply @chenglou/pretext for DOM-free multiline text measurement and layout. Use this skill whenever the user mentions "pretext", needs to measure text height without DOM reflow, build virtualized lists with variable row heights, create masonry layouts, render text on Canvas/SVG/WebGL, flow text around obstacles, shrink-wrap text to its tightest width, or handle any scenario where accurate multiline text dimensions are needed without triggering layout thrashing. Also use when the user mentions "text height", "variable height", "canvas text layout", "text measurement", or wants to avoid getBoundingClientRect/offsetHeight for performance reasons. Even if the user doesn't name Pretext directly, if they're struggling with expensive DOM text measurements or need pixel-perfect text layout in JavaScript, this skill applies.
+description: DOM-free multiline text measurement and layout using @chenglou/pretext. Use when the user needs text height calculation, virtualized list row sizing, canvas/SVG text rendering, or any scenario involving text layout without DOM reflow.
 ---
 
 # Pretext – DOM-Free Text Measurement & Layout
