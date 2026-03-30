@@ -1,6 +1,6 @@
 # pretext-skills
 
-Agent skill for [@chenglou/pretext](https://github.com/chenglou/pretext) — the fastest DOM-free multiline text measurement & layout library.
+AI Agents skill for [@chenglou/pretext](https://github.com/chenglou/pretext) — the fastest DOM-free multiline text measurement & layout library.
 
 Pretext replaces expensive DOM measurements (`getBoundingClientRect`, `offsetHeight`) with pure-arithmetic text layout that's 300–600× faster and pixel-perfect across Chrome, Safari, and Firefox. This skill teaches your AI agent how to use it correctly.
 
